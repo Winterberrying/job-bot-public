@@ -1,0 +1,73 @@
+{
+  "general_software_engineering_skills": {
+      "programming_languages": ["python", "java", "c++", "javascript", "ruby", "go", "c#", "swift"],
+      "version_control": ["git", "github", "gitlab", "bitbucket"],
+      "software_development_life_cycle": ["agile", "scrum", "waterfall"],
+      "testing_frameworks": ["junit", "pytest", "selenium", "mocha", "jasmine"],
+      "ides_and_tools": ["visual studio code", "intellij idea", "eclipse", "xcode"],
+      "operating_systems": ["linux", "windows", "macos"],
+      "concepts": ["data structures and algorithms", "problem-solving skills", "debugging and profiling"],
+      "software_architecture": ["mvc", "mvvm", "microservices"],
+      "apis": ["rest", "graphql", "soap"]
+  },
+  "web_development_skills": {
+      "frontend": ["html", "css", "javascript", "react", "angular", "vue.js"],
+      "backend": ["node.js", "django", "flask", "ruby", "rails", "spring boot"],
+      "databases": ["mysql", "postgresql", "mongodb", "sqlite"],
+      "web_design_principles": ["responsive design", "ui/ux"],
+      "web_hosting_platforms": ["aws", "google cloud", "azure", "heroku"]
+  },
+  "mobile_development_skills": {
+      "platforms": ["android", "ios"],
+      "frameworks": ["flutter", "react native", "swiftui", "kotlin multiplatform"],
+      "native_development": ["kotlin", "swift", "objective-c"]
+  },
+  "ai_and_machine_learning_skills": {
+      "machine_learning_frameworks": ["tensorflow", "pytorch", "scikit-learn"],
+      "data_science_tools": ["pandas", "numpy", "matplotlib", "seaborn"],
+      "deep_learning": ["keras", "hugging face transformers", "opencv"],
+      "natural_language_processing": ["spacy", "nltk", "gensim"],
+      "reinforcement_learning": ["openai gym", "ray rllib"],
+      "model_deployment": ["docker", "flask", "fastapi", "tensorflow serving"],
+      "big_data_tools": ["hadoop", "spark", "hive"],
+      "cloud_ml_services": ["aws sagemaker", "google ai platform", "azure ml"]
+  },
+  "devops_and_infrastructure_skills": {
+      "containerization": ["docker", "kubernetes"],
+      "ci_cd_tools": ["jenkins", "circleci", "github actions", "travis ci"],
+      "infrastructure_as_code": ["terraform", "ansible", "chef", "puppet"],
+      "cloud_platforms": ["aws", "azure", "google cloud platform"],
+      "monitoring_tools": ["prometheus", "grafana", "splunk"]
+  },
+  "cybersecurity_skills": {
+      "security_tools": ["wireshark", "metasploit", "burp suite"],
+      "security_protocols": ["ssl/tls", "oauth", "saml"],
+      "vulnerability_assessment": ["owasp", "nessus"],
+      "cryptography": ["rsa", "aes", "hashing algorithms"]
+  },
+  "data_engineering_skills": {
+      "data_warehousing": ["snowflake", "redshift", "bigquery"],
+      "etl_tools": ["apache airflow", "talend", "informatica"],
+      "database_management": ["sql", "nosql", "graph databases"],
+      "stream_processing": ["apache kafka", "apache flink"]
+  },
+  "emerging_tech_skills": {
+      "blockchain": ["solidity", "ethereum", "hyperledger"],
+      "quantum_computing": ["qiskit", "ibm quantum"],
+      "internet_of_things": ["mqtt", "zigbee", "arduino", "raspberry pi"],
+      "edge_computing": ["aws iot greengrass", "azure iot edge"]
+  },
+  "soft_skills_for_tech_roles": [
+      "communication",
+      "collaboration",
+      "problem-solving",
+      "stress management",
+      "teamwork",
+      "time management",
+      "team leadership",
+      "critical thinking",
+      "analytical",
+      "adaptability",
+      "continuous learning"
+  ]
+}
