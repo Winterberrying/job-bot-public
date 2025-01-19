@@ -122,3 +122,6 @@ CH's Career Groove (Job-Bot) is a productivity tool designed to make your job se
 
 - ---
 ## DEMO
+
+https://github.com/user-attachments/assets/b231dc5f-a09c-4ad9-91d4-b753e51cc206
+
